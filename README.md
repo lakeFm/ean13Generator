@@ -11,5 +11,5 @@ Where:
 -  ```"123456789159"``` -> Ean number code (12 digits)
 -  ``` "barcode" ``` -> filename for SVG file.
 - ``` false ``` -> bool for printing encoded EAN code.
-#Author
+# Author
 (C) 2020 Maks Makuta (LakeFm).
